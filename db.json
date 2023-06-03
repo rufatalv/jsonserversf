@@ -1,0 +1,90 @@
+{
+    "features": [{
+            "id": 1,
+            "name": "100% təbii məhsullar",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+            "image": "https://i.imgur.com/htiOYP3.png"
+        },
+        {
+            "id": 2,
+            "name": "Analoqsuz keyfiyyət",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+            "image": "https://i.imgur.com/2LwWgLe.png"
+        },
+        {
+            "id": 3,
+            "name": "İxtisaslaştirilmiş satiş",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+            "image": "https://i.imgur.com/F5Y4mFi.png"
+        }
+    ],
+    "products": [{
+            "id": 1,
+            "name": "100% təbii məhsullar",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+            "image": "https://i.imgur.com/htiOYP3.png"
+        },
+        {
+            "id": 2,
+            "name": "Analoqsuz keyfiyyət",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+            "image": "https://i.imgur.com/2LwWgLe.png"
+        },
+        {
+            "id": 3,
+            "name": "İxtisaslaştırılmış satış",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+            "image": "https://i.imgur.com/F5Y4mFi.png"
+        }
+    ],
+    "services": [{
+            "id": 1,
+            "name": "Bağ salma",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+            "image": "https://i.imgur.com/Izt461N.png"
+        },
+        {
+            "id": 2,
+            "name": "Aqronom məsləhəti",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+            "image": "https://i.imgur.com/eaKuvlt.png"
+        },
+        {
+            "id": 3,
+            "name": "Aqronom xidməti",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+            "image": "https://i.imgur.com/SI3TkTW.png"
+        },
+        {
+            "id": 4,
+            "name": "Laboratoriya",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+            "image": "https://i.imgur.com/tpwK5bh.png"
+        }
+    ],
+    "productslatest": [{
+            "id": 1,
+            "name": "Lorem ipsum",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "image": "https://i.imgur.com/06w6WRX.png"
+        },
+        {
+            "id": 2,
+            "name": "Lorem ipsum",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "image": "https://i.imgur.com/SlFXRzS.png"
+        },
+        {
+            "id": 3,
+            "name": "Lorem ipsum",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "image": "https://i.imgur.com/0841GJF.png"
+        },
+        {
+            "id": 4,
+            "name": "Lorem ipsum",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "image": "https://i.imgur.com/06w6WRX.png"
+        }
+    ]
+}
